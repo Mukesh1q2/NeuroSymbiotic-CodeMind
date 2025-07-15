@@ -1,0 +1,8 @@
+{
+  "name": "Copy of NeuroSymbiotic CodeMind",
+  "description": "An industry-level NeuroSymbiotic CodeMind (NSCM) project that simulates a hybrid classical-quantum consciousness engine, modeling emergent cognitive behaviors through CQ dynamics, agent interactions, and adaptive learning, visualized in an immersive 3D environment.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
